@@ -1,7 +1,8 @@
 # LukeJac13
 
-**Computer Science Major**
-**Monmouth College Class of 2026**
+Computer Science Major
+ 
+Monmouth College Class of 2026
 <!--
 **lukejac13/lukejac13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
